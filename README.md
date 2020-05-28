@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/q9i4luxlfvbwsq2o?svg=true)](https://ci.appveyor.com/project/KateGaw/ra-props-films)
 
 https://kategaw.github.io/RA_props_films/
 
